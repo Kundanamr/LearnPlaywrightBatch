@@ -2,7 +2,7 @@
 
 console.log("Hello Kundan");
 
-/**
+/*
  * This is a multi-line comment
  * Author: Kundan Kumar
  * Date: 2026-02-17
