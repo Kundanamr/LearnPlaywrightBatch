@@ -10,3 +10,10 @@ const score = 1000
 console.log(score);
 
 
+const pi = 3.14;
+const prod_api_url = "https://app.vwo.com/#login";
+//prod_api_url = "https://google.com"
+const qa_api_url = "https://qa.vwo.com/#login";
+
+let abc = "Kundan2";
+console.log(abc);
