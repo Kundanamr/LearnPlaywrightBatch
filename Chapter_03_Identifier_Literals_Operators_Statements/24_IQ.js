@@ -28,7 +28,7 @@ console.log("" == "0");  //false
 let name = null;
 let age;
 
-name = "pramod";
+name = "kundan";
 
 // var p = NaN;
 // p = p +10;
