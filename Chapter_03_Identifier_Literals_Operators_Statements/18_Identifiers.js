@@ -17,5 +17,5 @@ let myVariable = 10;
 // // This is a valid identifier and can be used without any issues.
 
 // // they look like keywords but aren't reserved)
-let undefined = 5;  // ⚠️ Works but NEVER do this!
-let Infinity = 10; // ⚠️ Works but NEVER do this!
+let undefined = 5;  // ⚠️ Works but NEVER do this! not good practice
+let Infinity = 10; // ⚠️ Works but NEVER do this! not good practice
