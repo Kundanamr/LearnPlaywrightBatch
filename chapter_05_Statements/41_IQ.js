@@ -2,7 +2,7 @@ if ([]) {
     console.log("True!")
 }
 // case 1
-let response;
+let response; wwww
 if (response) {
 
 }
