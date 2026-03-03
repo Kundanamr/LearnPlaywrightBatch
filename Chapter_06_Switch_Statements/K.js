@@ -1,5 +1,5 @@
-
-//let x = 10;
+// we can write this as well:-- 
+let x = 10;
 switch (x) {
     case a:
         let b = 1;
