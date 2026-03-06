@@ -7,3 +7,4 @@ console.log(b); ///// its print 11
 let a1 = 11;
 let b1 = a++;
 console.log(b); ///// but ots print same 11
+

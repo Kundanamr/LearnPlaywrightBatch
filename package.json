@@ -1,0 +1,27 @@
+{
+  "name": "learn-playwright-batch",
+  "version": "1.0.0",
+  "description": "This repository contains code and resources for learning Playwright and automation testing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kundanamr/LearnPlaywrightBatch.git"
+  },
+  "keywords": [
+    "Playwright",
+    "Learning"
+  ],
+  "author": "Kundan",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Kundanamr/LearnPlaywrightBatch/issues"
+  },
+  "homepage": "https://github.com/Kundanamr/LearnPlaywrightBatch#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2"
+  }
+}
